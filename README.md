@@ -7,6 +7,8 @@ Producer y consumer con RabbitMQ
 Ruta para el directorio: C:\Program Files\Go\src\IS-910\rabbitmq-go
 
 
+
+
 Instrucciones:
 
 
@@ -20,6 +22,8 @@ Poner estos comandos en Visual Studio Code:
 
 
 docker-compose queda ejecutándose en una sóla terminal de VS code
+
+
 
 
 Crear una nueva terminal para correr los siguientes comandos en ese mismo orden del 2 hasta el 5
