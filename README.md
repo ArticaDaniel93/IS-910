@@ -9,11 +9,11 @@ Descargar Docker primeramente antes de ejecutar los comandos en Visual Studio Co
 
 Poner estos comandos en Visual Studio Code:
 
-  #docker-compose up
+#docker-compose up
 docker-compose queda ejecutándose en una sóla terminal de VS code
 
 Crear una nueva terminal para correr los siguientes comandos en ese mismo orden
-  #docker pull rabbitmq
-  #go build
-  #go run producer.go
-  #go run consumer.go
+#docker pull rabbitmq
+#go build
+#go run producer.go
+#go run consumer.go
