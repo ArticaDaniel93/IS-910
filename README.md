@@ -4,10 +4,7 @@
 Producer y consumer con RabbitMQ
 
 
-Ruta para el directorio
-
-
-C:\Program Files\Go\src\IS-910\rabbitmq-go
+Ruta para el directorio: C:\Program Files\Go\src\IS-910\rabbitmq-go
 
 
 Instrucciones:
