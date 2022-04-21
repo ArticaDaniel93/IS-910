@@ -15,6 +15,9 @@ func failOnError(err error, msg string) {
 }
 
 func main() {
+	//generar tiempo 
+	//llamar la funcion de numero aleatorio 
+	comparar numero generado > frecuencia //esto en funcion de la tabla 
 	connection, err := amqp.Dial("amqp://guest:guest@localhost:5672/")
 	failOnError(err, "No se pudo conectar a RabbitMQ")
 	defer connection.Close()

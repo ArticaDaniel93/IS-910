@@ -24,7 +24,7 @@ func main() {
 	defer canal.Close()
 
 	q, err := canal.QueueDeclare(
-		"task_queue", // name
+		"Cola 1", // name
 		true,         // durable
 		false,        // delete when unused
 		false,        // exclusive
